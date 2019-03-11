@@ -1,14 +1,14 @@
 body{
-	background: url('/Users/Taylor/bc/Trivia-Game/assets/image/sports-background-images-hd-3.jpg');
+	/* background: url('/assets/image/sports-background-images-hd-3.jpg'); */
 	font-family: 'Raleway', sans-serif;
     font-size: 25px;
+    /* color: white; */
+    /* text-align: center; */
+}
+/* .container{
     color: white;
     text-align: center;
-}
-.container{
-    color: white;
-    text-align: center;
-}
+} */
 
 header{
 	margin-bottom: 20px;
